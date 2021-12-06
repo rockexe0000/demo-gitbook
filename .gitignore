@@ -1,2 +1,6 @@
-_book
-node_modules
+_book/
+node_modules/
+book.pdf
+book.mobi
+book.epub
+
